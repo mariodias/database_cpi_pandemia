@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "Mario"
+  given-names: "Dias"
+  orcid: "https://orcid.org/0000-0003-0399-6344"
+title: "database CPI da Pandemia"
+version: 1.0.0
+date-released: 2021-06-30
+url: "https://github.com/mariodias/database_cpi_pandemia/blob/main/base_senadores_cpi_pandemia.csv"
+preferred-citation:
+  type: dataset
+  authors:
+  - family-names: "Mario"
+    given-names: "Dias"
+    orcid: "https://orcid.org/0000-0003-0399-6344"
+  journal: "database CPI da Pandemia"
+  month: 6
+  start: 1 # First page number
+  end: 1 # Last page number
+  title: "database CPI da Pandemia"
+  issue: 1
+  volume: 1
+  year: 2021
